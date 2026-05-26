@@ -1,0 +1,410 @@
+[
+    {
+        "guidance": "AD Cu catalysts using carbon-based supports will enhance electron transfer efficiency and stability during eCO2RR.",
+        "type": "positive guidance",
+        "explanation": "Carbon-based materials exhibit excellent stability and high specific surface area, effectively supporting the dispersion of copper atoms and preventing agglomeration. They also demonstrate outstanding electrical conductivity, facilitating efficient electron transport.",
+        "methods": [
+            "Support engineering: use carbon-based supports (carbon cloth/graphene/porous carbon, etc.)"
+        ],
+        "descriptors": [
+            "Electrical conductivity",
+            "Specific surface area",
+            "Cu atomic dispersion",
+            "Interfacial interaction strength"
+        ],
+        "properties": [
+            "Electron transport efficiency",
+            "Stability",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Copper-based catalysts doped with heteroatoms (N, O, S, B) will enhance electron transfer to key intermediates and product selectivity.",
+        "type": "positive guidance",
+        "explanation": "Doped heteroatoms alter the electronic structure of copper atoms by forming coordinate bonds or providing additional electron orbitals, thereby facilitating electron transfer to key intermediates. Notably, the diverse coordination configurations of nitrogen atoms directly influence the regulation of product selectivity.",
+        "methods": [
+            "Heteroatom doping (N/O/S/B)"
+        ],
+        "descriptors": [
+            "d-band center position",
+            "Cu–X (X = N/O/S/B) coordination environment/coordination number",
+            "Intermediate adsorption energy/electron transfer kinetics"
+        ],
+        "properties": [
+            "Selectivity (product distribution control)",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "AD Cu catalysts using bimetallic synergy will enhance the reduction of adsorption energy for intermediates and reaction efficiency.",
+        "type": "positive guidance",
+        "explanation": "The introduction of additional transition metal atoms can leverage synergistic effects between metals, reducing the adsorption energy of intermediates. In the Cu-TM-N-C catalytic system, electrons are generally concentrated at the Cu sites, forming the most active regions.",
+        "methods": [
+            "Bimetallic synergy (Cu–TM–N–C system)"
+        ],
+        "descriptors": [
+            "Reduced intermediate adsorption energy",
+            "Charge distribution (electrons concentrated at Cu sites)",
+            "Bimetallic synergy strength"
+        ],
+        "properties": [
+            "Reaction efficiency",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Copper atoms using ammonia-assisted defect capture will enhance atomic dispersion and active site formation.",
+        "type": "positive guidance",
+        "explanation": "Ammonia molecules, driven by strong Lewis acid-base interactions, pull copper atoms from the surface of copper foam to form volatile Cu(NH₃)_x species. These species are captured by defects in nitrogen-rich carbon carriers, achieving atomic dispersion.",
+        "methods": [
+            "Ammonia-assisted defect capture (synthesis/pre-treatment)"
+        ],
+        "descriptors": [
+            "Defect density (N-rich carbon support defects)",
+            "Cu–N coordination environment",
+            "Atomic dispersion"
+        ],
+        "properties": [
+            "Number of active sites",
+            "Stability"
+        ]
+    },
+    {
+        "guidance": "Cu-based catalysts using dispersed loading will enhance surface activation energy and *CO binding, promoting CO₂ reduction reactivity.",
+        "type": "positive guidance",
+        "explanation": "Dispersing the load increases the energy of Cu surface active sites, thereby promoting the formation of CO intermediates and enhancing the eCO₂RR reaction rate.",
+        "methods": [
+            "Dispersed loading (low surface-density loading)"
+        ],
+        "descriptors": [
+            "Surface active site energy",
+            "*CO adsorption energy/binding strength"
+        ],
+        "properties": [
+            "CO2 reduction activity",
+            "Reaction rate"
+        ]
+    },
+    {
+        "guidance": "Cu-based catalysts using heteroatom (e.g., N) doping will enhance CO desorption and suppress excessive hydrogenation.",
+        "type": "positive guidance",
+        "explanation": "Nitrogen atom doping modulates the d orbital center of Cu, weakening CO adsorption and enhancing desorption, thereby reducing over-hydrogenation and improving C₂ product selectivity.",
+        "methods": [
+            "Nitrogen doping"
+        ],
+        "descriptors": [
+            "Downshifted d-band center",
+            "Decreased CO adsorption strength",
+            "Decreased CO desorption energy"
+        ],
+        "properties": [
+            "Selectivity (enhanced C2 products)",
+            "Suppressed over-hydrogenation",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Cu coordination polymers using dual Cu sites with moderate distances will enhance C–C coupling and OCCHO intermediate formation.",
+        "type": "positive guidance",
+        "explanation": "Moderate spacing between adjacent Cu sites promotes the coupling of CHO and CO to form the OCCHO intermediate, lowering the coupling energy barrier and enhancing the selectivity of vinyl products.",
+        "methods": [
+            "Dual-site engineering (moderate Cu–Cu distance)",
+            "Coordination polymer construction"
+        ],
+        "descriptors": [
+            "Adjacent Cu–Cu distance",
+            "C–C coupling energy barrier",
+            "OCCHO intermediate formation energy"
+        ],
+        "properties": [
+            "C–C coupling rate",
+            "Selectivity (ethylene/vinyl products)",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Cu-based catalysts using oxygen vacancies will enhance *CO and *COOH intermediate adsorption and improve C₂ product selectivity.",
+        "type": "positive guidance",
+        "explanation": "Oxygen vacancies can provide additional electrons to stabilize reaction intermediates, thereby enhancing the Faradaic efficiency of ethylene.",
+        "methods": [
+            "Defect engineering: introduce oxygen vacancies"
+        ],
+        "descriptors": [
+            "Oxygen vacancy density",
+            "*CO adsorption energy",
+            "*COOH adsorption energy",
+            "Electron-donating ability"
+        ],
+        "properties": [
+            "C2 selectivity",
+            "Faradaic efficiency (ethylene)",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Dual-metal CuNi DACs using synergistic adsorption on Ni and Cu sites will enhance *COOH and *OH stabilization, boosting overall eCO₂RR selectivity.",
+        "type": "positive guidance",
+        "explanation": "The CuNi bimetallic catalyst enhances the stability of key intermediates through synergistic adsorption at Ni and Cu sites, thereby promoting the formation of polycarbonate products.",
+        "methods": [
+            "Bimetallic DAC (Cu–Ni)"
+        ],
+        "descriptors": [
+            "Synergistic adsorption at Ni/Cu sites",
+            "*COOH stabilization",
+            "*OH stabilization"
+        ],
+        "properties": [
+            "Overall selectivity",
+            "Activity"
+        ]
+    },
+    {
+        "guidance": "Embedding highly exposed Cu–Nx sites into microporous carbon using synergistic Cu–N coordination will enhance eCO₂RR stability and selectivity.",
+        "type": "positive guidance",
+        "explanation": "The highly exposed Cu–Nx sites within the carbon framework provide a stable electronic transport network, maintaining long-term catalytic activity.",
+        "methods": [
+            "Support engineering: embed highly exposed Cu–Nx into microporous carbon",
+            "Cu–N coordination construction"
+        ],
+        "descriptors": [
+            "Cu–Nx coordination number and exposure",
+            "Electronic transport network/electrical conductivity",
+            "Microporous structure and specific surface area"
+        ],
+        "properties": [
+            "Stability",
+            "Selectivity",
+            "Long-term activity retention"
+        ]
+    },
+    {
+        "guidance": "AD Cu catalysts should not be used with high-temperature reduction methods, as it will reduce atomic dispersion.",
+        "type": "negative guidance",
+        "explanation": "The reduction of copper ions at high temperatures promotes the agglomeration of copper atoms, leading to the formation of polyatomic clusters from dispersed atomic sites and reducing the number of active sites.",
+        "methods": [
+            "High-temperature reduction treatment (not recommended)"
+        ],
+        "descriptors": [
+            "Decreased atomic dispersion",
+            "Increased coordination number (cluster/nanoparticle formation)"
+        ],
+        "properties": [
+            "Reduced number of active sites",
+            "Reduced activity",
+            "Reduced stability"
+        ]
+    },
+    {
+        "guidance": "Copper-based atomic catalysts should not be used without proper support materials, as it will reduce stability and catalytic activity.",
+        "type": "negative guidance",
+        "explanation": "Due to the high surface energy of copper atoms, the absence of suitable carriers can lead to atomic migration, lattice substitution, and interface reconstruction, or even the formation of large clusters or nanoparticles. This reduces active sites and causes catalyst deactivation.",
+        "methods": [
+            "No/unsuitable support usage (not recommended)"
+        ],
+        "descriptors": [
+            "High surface energy causing migration/aggregation",
+            "Tendency for lattice substitution and interface reconstruction"
+        ],
+        "properties": [
+            "Reduced stability",
+            "Reduced activity",
+            "Increased deactivation risk"
+        ]
+    },
+    {
+        "guidance": "AD Cu catalysts should not be used with room temperature electrodeposition, as it will reduce uniform coverage of active sites.",
+        "type": "negative guidance",
+        "explanation": "Room-temperature electrodeposition results in the formation of multilayer structures with uneven coverage, affecting the distribution and exposure of catalytic active sites.",
+        "methods": [
+            "Room-temperature electrodeposition (not recommended)"
+        ],
+        "descriptors": [
+            "Multilayer surface coverage",
+            "Uneven exposure of active sites"
+        ],
+        "properties": [
+            "Reduced activity",
+            "Reduced selectivity"
+        ]
+    },
+    {
+        "guidance": "Cu-based catalysts should not be used under conditions generating excessive *H species, as it will reduce C–C coupling probability.",
+        "type": "negative guidance",
+        "explanation": "Excess hydrogen intermediates can lead to overhydrogenation reactions, inhibiting the C–C coupling process and thereby reducing the formation rate of C₂+ products.",
+        "methods": [
+            "Improper reaction conditions leading to excessive *H (not recommended)"
+        ],
+        "descriptors": [
+            "Excessive *H coverage",
+            "Decreased C–C coupling probability"
+        ],
+        "properties": [
+            "Decreased C2+ product formation rate",
+            "Reduced selectivity",
+            "Enhanced competing HER"
+        ]
+    },
+    {
+        "guidance": "Cu catalysts with overly strong CO binding should not be used, as it will trigger surface ripening and reduce further hydrogenation efficiency.",
+        "type": "negative guidance",
+        "explanation": "Excessive CO adsorption induces Ostwald ripening, causing active sites to migrate or become deactivated, thereby hindering subsequent product formation.",
+        "methods": [
+            "Surface engineering leading to overly strong CO adsorption (not recommended)"
+        ],
+        "descriptors": [
+            "Overly strong CO adsorption strength",
+            "Ostwald ripening/surface ripening tendency"
+        ],
+        "properties": [
+            "Reduced further hydrogenation efficiency",
+            "Reduced activity",
+            "Reduced stability"
+        ]
+    },
+    {
+        "guidance": "AD Cu materials should not be used without alloy stabilization, as they are prone to oxidation and deactivation in eCO₂RR conditions.",
+        "type": "negative guidance",
+        "explanation": "Active metallic copper readily oxidizes and deactivates, necessitating the introduction of stabilizers (such as Ni or In) to enhance oxygen resistance.",
+        "methods": [
+            "Lack of alloy stabilization (not recommended)"
+        ],
+        "descriptors": [
+            "High oxidation sensitivity",
+            "Alloying reduces oxygen affinity"
+        ],
+        "properties": [
+            "Reduced stability",
+            "Deactivation risk",
+            "Poor durability"
+        ]
+    },
+    {
+        "guidance": "Copper single atoms using thermal polymerization with controlled temperature conditions can enhance the prevention of Cu atom agglomeration.",
+        "type": "conditional guidance",
+        "explanation": "The thermal aggregation method can effectively suppress the aggregation of Cu atoms on the substrate by controlling temperature conditions, atmosphere, and precursors, thereby precisely regulating the generation and distribution of Cu atoms.",
+        "methods": [
+            "Thermal polymerization (controllable temperature/atmosphere/precursor)"
+        ],
+        "descriptors": [
+            "Cu atomic dispersion",
+            "Controllable coordination environment",
+            "Suppressed surface migration kinetics"
+        ],
+        "properties": [
+            "Improved stability",
+            "Preserved active sites",
+            "Controllable selectivity"
+        ],
+        "conditions": [
+            "Temperature: controlled (avoid excessive values to suppress aggregation)",
+            "Atmosphere: controlled (depending on precursor and target structure)",
+            "Precursor: controlled type and concentration"
+        ]
+    },
+    {
+        "guidance": "AD Cu catalysts using underpotential electrochemical deposition (UPD) at specific potentials can enhance the relative dispersion of deposited Cu atoms.",
+        "type": "conditional guidance",
+        "explanation": "Under UPD potential, when Cu atoms interact with the carbon-based substrate, the corresponding active sites cannot interact with other transition metal atoms, thereby effectively ensuring the relative dispersion of deposited Cu atoms.",
+        "methods": [
+            "Underpotential deposition (UPD)"
+        ],
+        "descriptors": [
+            "Increased relative dispersion",
+            "Site-selective deposition",
+            "Suppressed interactions with other metals"
+        ],
+        "properties": [
+            "Improved selectivity",
+            "Improved activity"
+        ],
+        "conditions": [
+            "Potential: UPD region (below the equilibrium deposition potential of Cu)",
+            "Substrate: carbon-based substrate"
+        ]
+    },
+    {
+        "guidance": "Copper-based catalysts using wet impregnation followed by acid leaching treatment can enhance specific surface area and average pore size.",
+        "type": "conditional guidance",
+        "explanation": "The wet impregnation method is simple to operate and yields uniformly distributed copper particles. Nanoparticles adhering to the surface during preparation can be leached out using acid treatment, thereby increasing the specific surface area and average pore size of AD Cu.",
+        "methods": [
+            "Wet impregnation + acid leaching treatment"
+        ],
+        "descriptors": [
+            "Particle distribution uniformity",
+            "Increased specific surface area",
+            "Increased average pore size"
+        ],
+        "properties": [
+            "Improved activity",
+            "Improved stability"
+        ],
+        "conditions": [
+            "Process sequence: wet impregnation followed by acid leaching",
+            "Acid leaching: controlled acid concentration and duration"
+        ]
+    },
+    {
+        "guidance": "Cu-based catalysts using high CO₂ pressure within 1–10 atm can enhance CO₂ solubility and suppress proton/H₂O competitive adsorption.",
+        "type": "conditional guidance",
+        "explanation": "Increasing the partial pressure of CO₂ enhances solubility and reduces side reactions (HER), thereby improving the Faradaic efficiency of the reduction reaction.",
+        "methods": [
+            "Reaction condition control: increase CO2 partial pressure"
+        ],
+        "descriptors": [
+            "Increased CO2 solubility",
+            "Suppressed competitive adsorption of H+/H2O",
+            "Local pH effect"
+        ],
+        "properties": [
+            "Improved Faradaic efficiency",
+            "Improved selectivity (relative to HER)"
+        ],
+        "conditions": [
+            "Pressure: 1–10 atm (CO2)",
+            "Atmosphere: high CO2 partial pressure"
+        ]
+    },
+    {
+        "guidance": "Cu–N₂ asymmetric coordination using elevated CO₂ pressure (>1 atm) can enhance methane formation and *CO affinity.",
+        "type": "conditional guidance",
+        "explanation": "The asymmetric Cu–N coordination environment enhances C≡O adsorption and activation under high-pressure conditions, achieving high methane yield.",
+        "methods": [
+            "Asymmetric coordination (Cu–N2) construction"
+        ],
+        "descriptors": [
+            "Increased *CO affinity",
+            "Enhanced C≡O adsorption/activation",
+            "Effect of coordination environment on pathway selectivity"
+        ],
+        "properties": [
+            "Increased methane selectivity",
+            "Improved activity"
+        ],
+        "conditions": [
+            "CO2 pressure: > 1 atm"
+        ]
+    },
+    {
+        "guidance": "Stable nanofiber Cu–Ni catalysts using alkaline electrolyte conditions (pH > 12) can enhance oxidation resistance and maintain FECO > 90%.",
+        "type": "conditional guidance",
+        "explanation": "The difference in electronegativity between Cu and Ni in an alkaline environment helps suppress Cu oxidation, thereby enhancing CO selectivity and stability.",
+        "methods": [
+            "Alkaline electrolyte conditions (pH > 12)",
+            "Nanofiber Cu–Ni structure"
+        ],
+        "descriptors": [
+            "Antioxidation (due to Cu/Ni electronegativity difference)",
+            "Surface oxidation suppressed",
+            "FECO metric"
+        ],
+        "properties": [
+            "Antioxidation",
+            "Stability",
+            "FE (FECO > 90%)"
+        ],
+        "conditions": [
+            "pH: > 12 (strong alkaline)",
+            "Electrolyte environment: alkaline"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "example_id": "fact_sample_001",
+  "catalyst_category": "Cu-based catalyst",
+  "catalyst_material": "oxide-derived Cu with heteroatom incorporation",
+  "material_structure": "porous Cu surface with dispersed secondary metal species and grain boundaries",
+  "modulation_strategy": "heteroatom incorporation and defect engineering",
+  "target_product": "C2 products",
+  "reaction_conditions": "alkaline electrolyte",
+  "mechanistic_rationale": "Heteroatom incorporation can tune local electronic structure and modify *CO adsorption strength. Defect-rich Cu sites may increase local *CO retention and promote C-C coupling.",
+  "synthesis_description": "A Cu precursor and a secondary metal precursor are deposited on a conductive substrate, followed by oxidation and electrochemical activation.",
+  "source_metadata": "anonymized_source_2020_2023"
+}

@@ -1,0 +1,11 @@
+{
+  "guideline_id": "hl_g_001",
+  "guideline_level": "high_level",
+  "guideline_type": "positive",
+  "content": "Stabilizing adsorbed *CO on suitable Cu sites can promote C-C coupling and improve selectivity toward C2+ products.",
+  "material_category": "Cu-based catalyst",
+  "strategy_category": "general mechanism",
+  "catalytic_property": "C-C coupling / C2+ selectivity",
+  "condition_constraint": "none",
+  "source_metadata": "anonymized_review_source"
+}

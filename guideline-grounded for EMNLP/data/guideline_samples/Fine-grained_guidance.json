@@ -1,0 +1,12 @@
+{
+  "guideline_id": "fg_g_001",
+  "guideline_level": "fine_grained",
+  "guideline_type": "conditional",
+  "content": "For defect-engineered oxide-derived Cu under alkaline CO2RR conditions, defect-rich Cu sites may enhance *CO retention and adjacent-site coupling, supporting C2H4 selectivity when sufficient *CO coverage is maintained.",
+  "material_category": "oxide-derived Cu",
+  "strategy_category": "defect engineering",
+  "target_product": "C2H4",
+  "catalytic_property": "C-C coupling",
+  "condition_constraint": "alkaline electrolyte",
+  "source_metadata": "anonymized_domain_source"
+}
